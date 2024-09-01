@@ -1,7 +1,7 @@
 # Gauresh Bagayatkar
 
 ### Email: gauresh.bagayatkar@gmail.com
-### LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/gauresh-bagayatkar)
+### LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/gauresh-bagayatkar-7b7951253)
 
 ---
 
