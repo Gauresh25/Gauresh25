@@ -1,7 +1,7 @@
 # Gauresh Bagayatkar
 
 ### ✉️ Email: gauresh.bagayatkar@gmail.com
-### 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/ggauresh-bagayatkar-7b7951253)
+### 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/gauresh-bagayatkar-7b7951253)
 
 ---
 
@@ -17,12 +17,14 @@ I am an engineering student at Thadomal Shahani Engineering College, Mumbai, spe
 - ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 - ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=flat-square&logo=wordpress&logoColor=white) ![Shopify](https://img.shields.io/badge/Shopify-%232CBD6B.svg?style=flat-square&logo=shopify&logoColor=white)
 - ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white) (Flask, Django, OpenCV, NumPy, Tkinter, PyQt5)
+- ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) (Flask, Django, OpenCV, NumPy, Tkinter, PyQt5)
 - **Linux:** Shell scripting, system administration
 - **Web Hosting:**  Apache, Nginx, and Cloud hosting
 
 **☁️ Cloud Platforms:**
-- ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat-square&logo=amazon-aws&logoColor=%23FF9900) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-%230078D4.svg?style=flat-square&logo=microsoft-azure&logoColor=white)
+- ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat-square&logo=amazon-aws&logoColor=%23FF9900) **Amazon Web Services**: Experienced in using EC2 for computing power, Lambda for serverless applications, SNS for messaging, and IoT Core for connected device management.
+- ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) **Google Cloud Platform**: Skilled in resource management, networking, infrastructure, and foundational data, ML, and AI tasks.
+- ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-%230078D4.svg?style=flat-square&logo=microsoft-azure&logoColor=white) **Microsoft Azure**: Proficient in managing virtual machines, storage accounts, and working with Azure Cosmos DB for scalable database solutions.
 
 **🛠️ Development Tools:**
 - ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
