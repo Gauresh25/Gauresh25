@@ -50,19 +50,4 @@ Collaborated on a group project to create a dynamic web application with modern 
 
 ---
 
-## 💼 Experience
-
-**Hungry Brains**  
-*Web Developer Intern (July 2022)*  
-Worked on UI design for a mobile application using Figma, and gained experience in web development using Bubble and Shopify.
-
----
-
-## 📜 Certifications
-
-- **Google Cloud Computing Foundations** (October 2023)
-- **Grade A Intermediate Drawing Examination** (2017)
-
----
-
 ### 🌟 Thank you for visiting my GitHub page! Let's connect and collaborate on exciting projects.
