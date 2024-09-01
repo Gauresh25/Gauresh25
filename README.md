@@ -1,7 +1,7 @@
 # Gauresh Bagayatkar
 
-### Email: gauresh.bagayatkar@gmail.com
-### LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/gauresh-bagayatkar-7b7951253)
+### ✉️ Email: gauresh.bagayatkar@gmail.com
+### 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/ggauresh-bagayatkar-7b7951253)
 
 ---
 
@@ -11,44 +11,58 @@ I am an engineering student at Thadomal Shahani Engineering College, Mumbai, spe
 
 ---
 
-## Skills
+## 🛠️ Skills
 
 **Programming Languages & Tools:**
-- HTML5, Bootstrap, CSS, JavaScript (React)
-- PHP, WordPress/Shopify
-- C/C++ (Embedded CPP)
-- Python (Flask, Django, OpenCV, NumPy, Tkinter, PyQt5)
+- ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+- ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=flat-square&logo=wordpress&logoColor=white) ![Shopify](https://img.shields.io/badge/Shopify-%232CBD6B.svg?style=flat-square&logo=shopify&logoColor=white)
+- ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white) (Flask, Django, OpenCV, NumPy, Tkinter, PyQt5)
 - **Linux:** Shell scripting, system administration
-- **Web Hosting:** Experience with cPanel, Apache, Nginx, and cloud-based hosting solutions
+- **Web Hosting:**  Apache, Nginx, and Cloud hosting
 
-**Cloud Platforms:**
-- **AWS:** EC2, Lambda, SNS, IoT Core
-- **Google Cloud:** Resource Management, Networking, ML/AI Tasks
-- **Microsoft Azure:** Virtual Machines, Storage, Cosmos DB
+**☁️ Cloud Platforms:**
+- ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat-square&logo=amazon-aws&logoColor=%23FF9900) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-%230078D4.svg?style=flat-square&logo=microsoft-azure&logoColor=white)
 
-**Development Tools:**
-- **Source Control:** Git
-- **UI/UX Design:** Figma, Adobe XD
-- **Databases:** Oracle MySQL, PostgreSQL, SQLite
-- **Containerization:** Docker
-- **3D Modelling:** Blender
-- **Game Development:** Unity, Unreal Engine
+**🛠️ Development Tools:**
+- ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
+- ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-%23FF61F6.svg?style=flat-square&logo=adobe-xd&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=flat-square&logo=sqlite&logoColor=white)
+- ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
+- ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white)
+- ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?style=flat-square&logo=unreal-engine&logoColor=white)
 
 ---
 
-## Projects
+## 🚀 Projects
 
-### Object Tracking Quadcopter
+### 🛸 Object Tracking Quadcopter
 Developed an affordable quadcopter with real-time object tracking capabilities using ESP-based camera modules and Python OpenCV.
 
-### Aquarium Automation Application
+### 🐠 Aquarium Automation Application
 Created an IoT appliance for managing aquariums using ESP8266 and AWS services for cloud-based data logging and serverless operations.
 
-### Daily Briefing Application
+### 📅 Daily Briefing Application
 Led a team to develop a Python-based application with an interactive GUI using Tkinter, featuring web scraping for real-time weather updates.
 
-### Dynamic Website Application
+### 🌐 Dynamic Website Application
 Collaborated on a group project to create a dynamic web application with modern UI/UX using Bootstrap, Tailwind, and JavaScript, backed by a MariaDB database.
 
 ---
 
+## 💼 Experience
+
+**Hungry Brains**  
+*Web Developer Intern (July 2022)*  
+Worked on UI design for a mobile application using Figma, and gained experience in web development using Bubble and Shopify.
+
+---
+
+## 📜 Certifications
+
+- **Google Cloud Computing Foundations** (October 2023)
+- **Grade A Intermediate Drawing Examination** (2017)
+
+---
+
+### 🌟 Thank you for visiting my GitHub page! Let's connect and collaborate on exciting projects.
