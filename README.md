@@ -27,7 +27,7 @@ I am an engineering student at Thadomal Shahani Engineering College, Mumbai, spe
 **CI/CD & Automation:**
 - ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat-square&logo=github-actions&logoColor=white) Continuous Integration/Deployment pipelines
 - ![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) Shell scripting for automation
-- ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white) Jenkins automation
+
 
 ### ☁️ Cloud Platforms
 
@@ -60,7 +60,6 @@ I am an engineering student at Thadomal Shahani Engineering College, Mumbai, spe
 🌐 Virtual Networks, DNS
 📊 Azure Monitor
 🔐 Azure Active Directory
-🚢 Azure Kubernetes Service (AKS)
 ```
 
 ### 🌐 Web Development
@@ -72,8 +71,8 @@ Frontend:
 
 Backend:
 ⚡ Node.js | Express.js | Django | Flask
-🔧 PHP | Laravel | WordPress
-📦 REST APIs | GraphQL
+🔧 PHP | WordPress
+📦 REST APIs 
 ```
 
 ### 📊 Database Technologies
@@ -90,7 +89,17 @@ NoSQL:
 🔄 Microservices Architecture
 ⚡ Serverless Computing
 🔌 API Gateway Patterns
-🔗 Message Queues & Event-Driven Design
+ Message Queues & Event-Driven Design
+
+Message Brokers & Queuing:
+📨 RabbitMQ - Advanced message queuing protocol (AMQP)
+📫 AWS SQS/SNS - Cloud-native messaging services
+
+Integration Patterns:
+🔄 Asynchronous communication
+🔀 Pub/Sub patterns
+🔗 Point-to-point messaging
+🌐 Event-driven APIs
 ```
 
 
