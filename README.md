@@ -50,7 +50,6 @@ I am an engineering student at Thadomal Shahani Engineering College, Mumbai, spe
 🔗 VPC networking, Cloud DNS
 📊 Cloud Monitoring and Logging
 🔒 IAM and Security
-🚢 Google Kubernetes Engine (GKE)
 ```
 
 **![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-%230078D4.svg?style=flat-square&logo=microsoft-azure&logoColor=white) Microsoft Azure:**
