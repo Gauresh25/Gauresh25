@@ -17,36 +17,6 @@ I am an engineering student at Thadomal Shahani Engineering College, Mumbai, spe
 
 ## 🚀 Tech Stack
 
-### 🌐 Web Development
-```
-Frontend:
-📱 React | Next.js | Vue.js | TypeScript
-🎨 Tailwind CSS | Material-UI | Bootstrap
-🛠️ HTML5 | CSS3 | JavaScript (ES6+)
-
-Backend:
-⚡ Node.js | Express.js | Django | Flask
-🔧 PHP | Laravel | WordPress
-📦 REST APIs | GraphQL
-```
-
-### 📊 Database Technologies
-```
-Relational:
-📀 PostgreSQL | MySQL | MariaDB | SQLite
-
-NoSQL:
-🔮 MongoDB | Redis | DynamoDB
-```
-
-### 🏗️ Architecture & Design
-```
-🔄 Microservices Architecture
-⚡ Serverless Computing
-🔌 API Gateway Patterns
-🔗 Message Queues & Event-Driven Design
-```
-
 ### 🔧 DevOps & Cloud Engineering
 
 **Container Orchestration:**
@@ -92,6 +62,38 @@ NoSQL:
 🔐 Azure Active Directory
 🚢 Azure Kubernetes Service (AKS)
 ```
+
+### 🌐 Web Development
+```
+Frontend:
+📱 React | Next.js | Vue.js | TypeScript
+🎨 Tailwind CSS | Material-UI | Bootstrap
+🛠️ HTML5 | CSS3 | JavaScript (ES6+)
+
+Backend:
+⚡ Node.js | Express.js | Django | Flask
+🔧 PHP | Laravel | WordPress
+📦 REST APIs | GraphQL
+```
+
+### 📊 Database Technologies
+```
+Relational:
+📀 PostgreSQL | MySQL | MariaDB | SQLite
+
+NoSQL:
+🔮 MongoDB | Redis | DynamoDB
+```
+
+### 🏗️ Architecture & Design
+```
+🔄 Microservices Architecture
+⚡ Serverless Computing
+🔌 API Gateway Patterns
+🔗 Message Queues & Event-Driven Design
+```
+
+
 
 ### 🎨 Design & Creative Tools
 - ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-%23FF61F6.svg?style=flat-square&logo=adobe-xd&logoColor=white)
