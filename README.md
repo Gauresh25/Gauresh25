@@ -1,119 +1,81 @@
 <div align="center">
   
-# 👋 Gauresh Bagayatkar
+# Hello World 👋, I'm Gauresh
 
-[![Email](https://img.shields.io/badge/Email-gauresh.bagayatkar%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:gauresh.bagayatkar@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gauresh-bagayatkar-7b7951253)
+Software developer and cloud enthusiast who loves building distributed systems and tinkering with new technologies.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-green?style=flat-square&logo=openmined)](https://gauresh-bagayatkar-ct64ddnld-gaureshs-projects-54748ea8.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-gauresh.bagayatkar%40gmail.com-red?style=flat-square&logo=gmail)](mailto:gauresh.bagayatkar@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gauresh-bagayatkar-7b7951253)
 
 </div>
 
----
+## 💭 About Me
 
-## 💫 About Me
+Engineering student at TSEC Mumbai with a passion for:
+- 🚀 Building scalable distributed systems
+- ☁️ Cloud-native development
+- 🤖 Automation and DevOps
+- 🎨 Digital design and creative coding
 
-I am an engineering student at Thadomal Shahani Engineering College, Mumbai, specializing in software development, cloud computing, and digital design. With a strong foundation in modern web technologies and cloud-native development, I am passionate about building scalable, distributed systems and serverless applications.
+## 🛠️ What I Work With
 
----
-
-## 🚀 Tech Stack
-
-### 🔧 DevOps & Cloud Engineering
-
-**Container Orchestration:**
-- ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white) Docker containerization and multi-container applications
-- Experience with container orchestration and microservices architecture
-- Docker Compose for development environments
-
-**CI/CD & Automation:**
-- ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat-square&logo=github-actions&logoColor=white) Continuous Integration/Deployment pipelines
-- ![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) Shell scripting for automation
-
-
-### ☁️ Cloud Platforms
-
-**![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat-square&logo=amazon-aws&logoColor=%23FF9900) Amazon Web Services:**
+### Cloud & DevOps
 ```
-🚀 Compute: EC2, ECS, Lambda
-💾 Storage: S3, EBS
-🌐 Networking: VPC, Route 53
-📊 Databases: RDS, DynamoDB
-📈 Monitoring: CloudWatch
-🔐 Security: IAM
-📫 Messaging: SNS, SQS
-🌟 Serverless: Lambda, API Gateway
+☁️ AWS (Lambda, EC2, S3, DynamoDB)
+☁️ GCP (Cloud Functions, Compute Engine)
+☁️ Azure (App Services, Cosmos DB)
+🐳 Docker & Container Orchestration
+🔄 CI/CD with GitHub Actions
 ```
 
-**![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) Google Cloud Platform:**
+### Development
 ```
-💻 Compute Engine, Cloud Functions
-📦 Cloud Storage, Cloud SQL
-🔗 VPC networking, Cloud DNS
-📊 Cloud Monitoring and Logging
-🔒 IAM and Security
-```
-
-**![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-%230078D4.svg?style=flat-square&logo=microsoft-azure&logoColor=white) Microsoft Azure:**
-```
-🖥️ Virtual Machines, App Services
-💾 Azure Storage, Cosmos DB
-🌐 Virtual Networks, DNS
-📊 Azure Monitor
-🔐 Azure Active Directory
+Frontend: React, Next.js, Vue.js, TypeScript
+Backend: Node.js, Django, Flask
+Database: PostgreSQL, MongoDB, Redis
+Architecture: Microservices, Serverless, Event-Driven
 ```
 
-### 🌐 Web Development
+### Creative Tools
 ```
-Frontend:
-📱 React | Next.js | Vue.js | TypeScript
-🎨 Tailwind CSS | Material-UI | Bootstrap
-🛠️ HTML5 | CSS3 | JavaScript (ES6+)
-
-Backend:
-⚡ Node.js | Express.js | Django | Flask
-🔧 PHP | WordPress
-📦 REST APIs 
+🎨 Figma, Adobe XD
+🎮 Unity, Unreal Engine
+🔷 Blender
 ```
 
-### 📊 Database Technologies
-```
-Relational:
-📀 PostgreSQL | MySQL | MariaDB | SQLite
+## 🌱 Currently Learning
 
-NoSQL:
-🔮 MongoDB | Redis | DynamoDB
-```
+- Diving deeper into distributed systems
+- Exploring serverless architectures
+- Experimenting with message brokers and event-driven patterns
 
-### 🏗️ Architecture & Design
-```
-🔄 Microservices Architecture
-⚡ Serverless Computing
-🔌 API Gateway Patterns
- Message Queues & Event-Driven Design
+## 🎯 Fun Facts
 
-Message Brokers & Queuing:
-📨 RabbitMQ - Advanced message queuing protocol (AMQP)
-📫 AWS SQS/SNS - Cloud-native messaging services
+- 🎮 I dabble in game development on weekends
+- 🤓 I love exploring new tech stacks
+- 🌟 Always up for a coding challenge
 
-Integration Patterns:
-🔄 Asynchronous communication
-🔀 Pub/Sub patterns
-🔗 Point-to-point messaging
-🌐 Event-driven APIs
-```
-
-
-
-### 🎨 Design & Creative Tools
-- ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-%23FF61F6.svg?style=flat-square&logo=adobe-xd&logoColor=white)
-- ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white)
-- ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?style=flat-square&logo=unreal-engine&logoColor=white)
-
----
+## 📈 GitHub Metrics
 
 <div align="center">
-  
-### 🌟 Let's Connect and Build Something Amazing Together! 
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Gauresh25&show_icons=true&theme=dracula)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gauresh25&layout=compact&theme=dracula)
+
+
+</div>
+
+## 🤝 Let's Connect!
+
+Feel free to reach out if you want to:
+- 👥 Collaborate on projects
+- 💡 Exchange ideas
+- 🚀 Build something awesome together
+
+<div align="center">
+
+[![GitHub followers](https://img.shields.io/github/followers/Gauresh25?label=Follow&style=social)](https://github.com/Gauresh25)
 
 </div>
