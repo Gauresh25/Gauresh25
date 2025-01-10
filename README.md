@@ -4,7 +4,7 @@
 
 Software developer and cloud enthusiast who loves building distributed systems and tinkering with new technologies.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-green?style=flat-square&logo=openmined)](https://gauresh-bagayatkar-ct64ddnld-gaureshs-projects-54748ea8.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-green?style=flat-square&logo=openmined)](https://gauresh-bagayatkar.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-gauresh.bagayatkar%40gmail.com-red?style=flat-square&logo=gmail)](mailto:gauresh.bagayatkar@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gauresh-bagayatkar-7b7951253)
 
